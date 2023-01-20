@@ -1,6 +1,6 @@
 ## 👨‍💻 Hello there 👋
 
-![counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{fedepujol}1212%2Fhit-counter)
+![counter](https://komarev.com/ghpvc/?username=fedepujol&label=Views&color=43de70&style=flat)
 
 ## 💻 OS's
 ![nix](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
