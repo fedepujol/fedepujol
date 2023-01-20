@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on Java, Angular and Lua
-- 🌱 I’m currently learning Blockchain, IaC and Lua
+![counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{fedepujol}1212%2Fhit-counter)
 
-![fedepujol-trophies](https://github-profile-trophy.vercel.app/?username=fedepujol&theme=radical&column=4)
+## Stats
+![trophies](https://github-profile-trophy.vercel.app/?username=fedepujol&theme=radical&column=7)
 
-![fedepujol-muls](https://github-readme-stats.vercel.app/api/top-langs/?username=fedepujol&theme=radical&layout=compact)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fedepujol&theme=radical)
